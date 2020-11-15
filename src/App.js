@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="">
-      <h1>Hello</h1>
+      <h1>from master</h1>
+      <h1>from left sidebar</h1>
     </div>
   );
 }
