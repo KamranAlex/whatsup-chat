@@ -5,6 +5,10 @@ function App() {
   return (
     <div className="">
       <h1>Hello</h1>
+      <h1>this is right side</h1>
+
+
+
     </div>
   );
 }
